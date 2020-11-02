@@ -1,5 +1,9 @@
 # Insurance_Market_Price
 
+Esse é o link do simulador criado por mim (@fabricio.giordanelli) :
+
+https://fabriciogiordanelli.shinyapps.io/Insurance_Market_Price/
+
 Nesse estudo criei um simulador do preço de prêmio de cinco seguradora : Porto Seguros, Youse, HDI, SulAmérica e Liberty.
 
 <p float="left">
