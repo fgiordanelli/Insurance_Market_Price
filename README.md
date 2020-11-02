@@ -4,3 +4,8 @@ Nesse estudo criei um simulador do preço de prêmio de cinco seguradora : Porto
 
 ![alt-text-1](PORTO.jpg) ![alt-text-1](YOUSE.jpg) ![alt-text-1](HDI.jpg) ![alt-text-1](SULAMERICA.jpg) ![alt-text-1](LIBERTY.jpg) 
 
+<p float="left">
+  <img src="/PORTO.jpg" width="100" />
+  <img src="/YOUSE.jpg" width="100" /> 
+  <img src="/HDI.jpg" width="100" />
+</p>
